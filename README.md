@@ -1,5 +1,5 @@
 # Code_Connect DBMS Project
-Built for the DBMS course semester project, Code_Connect is a collaborative website by a team of five students. Using HTML, CSS, PHP, and JavaScript, we've developed an interactive platform for our college programming society .
+Built for the DBMS course semester project, Code_Connect is a collaborative website by a team of five students. Using HTML, CSS, PHP, and JavaScript, we've developed an interactive platform for  programming society .
 
 ## Team Members
 - [Dakshata Borse](https://github.com/Altair-05)
